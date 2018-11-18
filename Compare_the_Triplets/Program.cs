@@ -8,6 +8,14 @@ namespace Compare_the_Triplets
 {
     class Program
     {
+        static long aVeryBigSum(long[] ar)
+        {
+            long result = 0;
+            foreach (var item in ar) result = result + item;
+
+            return result;
+        }
+
         static List<int> compareTriplets(List<int> a, List<int> b)
         {
             var aliceScore = (a[0] > b[0] ? 1 : 0) + (a[1] > b[1] ? 1 : 0) + (a[2] > b[2] ? 1 : 0);

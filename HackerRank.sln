@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Array_Sum", "Simple_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare_the_Triplets", "Compare_the_Triplets\Compare_the_Triplets.csproj", "{CDB89F7E-35EC-46D7-B5B4-D6479088C674}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{7661D4F7-B93E-4F0A-B427-16C20564D14E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CDB89F7E-35EC-46D7-B5B4-D6479088C674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDB89F7E-35EC-46D7-B5B4-D6479088C674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDB89F7E-35EC-46D7-B5B4-D6479088C674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7661D4F7-B93E-4F0A-B427-16C20564D14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7661D4F7-B93E-4F0A-B427-16C20564D14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7661D4F7-B93E-4F0A-B427-16C20564D14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7661D4F7-B93E-4F0A-B427-16C20564D14E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
