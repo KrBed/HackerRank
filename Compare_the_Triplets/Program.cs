@@ -26,7 +26,7 @@ namespace Compare_the_Triplets
         {
             var aliceList = new List<int>() { 5, 6, 7 };
             var bobList = new List<int>() { 3, 6, 10 };
-           var result = compareTriplets(aliceList, bobList);
+            var result = compareTriplets(aliceList, bobList);
 
             Console.WriteLine(String.Join(" ", result));
             Console.ReadKey();
