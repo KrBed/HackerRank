@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max_Sum", "Mini-Max_Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday_Cake_Candles", "Birthday_Cake_Candles\Birthday_Cake_Candles.csproj", "{6ECF3185-09CC-4983-8E73-D2227A539E09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Conversion", "Time_Conversion\Time_Conversion.csproj", "{66202F41-746E-41F5-8482-DC1B70CBAF90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6ECF3185-09CC-4983-8E73-D2227A539E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ECF3185-09CC-4983-8E73-D2227A539E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ECF3185-09CC-4983-8E73-D2227A539E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66202F41-746E-41F5-8482-DC1B70CBAF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66202F41-746E-41F5-8482-DC1B70CBAF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66202F41-746E-41F5-8482-DC1B70CBAF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66202F41-746E-41F5-8482-DC1B70CBAF90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
